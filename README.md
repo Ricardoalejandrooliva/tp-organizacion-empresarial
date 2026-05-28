@@ -1,6 +1,6 @@
 # Analizador de Ventas Comerciales - UTN
 
-Trabajo Práctico Individual para la cátedra de Organización Empresarial (2026).
+Trabajo Práctico Individual para la cátedra de Organización Empresarial 2026.
 
 ## 📊 Escenario Seleccionado
 * **Escenario B:** Análisis de Ventas de una Pequeña Empresa.
