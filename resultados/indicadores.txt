@@ -1,0 +1,3 @@
+--- REPORTE DE RENDIMIENTO ANALÍTICO COMERCIAL ---
+Suma Total de Registros: 3,752,600,645,022
+Periodo con Mayor Indice de Actividad: 2024 (Monto: 8,141,808,945)
