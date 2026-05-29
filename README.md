@@ -16,6 +16,8 @@ Para garantizar la reproducibilidad completa del análisis desde la raíz del pr
 ```bash
 python scripts/analisis_datos.py
 ```
+Tarea SCRUM-1: Inicialización
+Se realizó la configuración inicial del proyecto, incluyendo la creación de la estructura de directorios (datos, resultados, scripts), la generación del archivo .gitignore para el control de versiones eficiente y la documentación básica en el README.md
 Conclusiones
 La realización de este trabajo práctico permitió la implementación de un flujo de trabajo profesional basado en metodologías ágiles, integrando herramientas de gestión de proyectos y control de versiones.
 
